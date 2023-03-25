@@ -20,7 +20,6 @@ for i in range(1, pessoas + 1):
     salario = float(input(f"Informe o salário da {i} pessoa: R$"))
     renda += salario
 
-
 anos = int(input("Prazo em anos: "))
 meses = anos * 12
 
